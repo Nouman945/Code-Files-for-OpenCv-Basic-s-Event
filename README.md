@@ -6,3 +6,5 @@ Topics :
   3. Drawing shapes on Images 
   4. detecting faces in images 
   5. detecting faces in videos
+Recording Link of the Event :
+  https://web.microsoftstream.com/video/367c7f65-8053-4e8a-9a40-bbd2d293f5a4

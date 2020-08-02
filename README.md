@@ -1,4 +1,4 @@
-# Code-Files-for-OpenCv-Basic-s-Event
+# Code Files for OpenCv Basic's Event
 These Files are for the Event of OpenCv project and its  basics.  
 Topics :  
   1. Writing on the images 
